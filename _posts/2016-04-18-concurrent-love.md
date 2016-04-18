@@ -8,7 +8,7 @@ tags: [ 'code' ]
 
 ```erlang
 concurrent_love() ->
-  Seq = lists:seq(1, 9),
+  Seq = lists:seq(1, infinite),
   Task_List = lists:map(
     fun(_) ->
       fun() ->
