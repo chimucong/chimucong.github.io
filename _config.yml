@@ -57,7 +57,7 @@ delete-delay: 5000
 lines: # You can add HTML Tags in the Text
   - text: "Three things cannot be long hidden: the sun, the moon and my faithful love for you."
 
-me-img: "/img/seveno.JPG"
+me-img: "/img/seveno_c.JPG"
 
 ##############################
 # Color the browser elements #
@@ -117,7 +117,7 @@ events:
 
 # First image of the Timeline
 
-timeline-img: "/img/timeline/love.png"
+timeline-img: "/img/timeline/love.jpg"
 
 ###########
 # Contact #
