@@ -58,7 +58,7 @@ lines: # You can add HTML Tags in the Text
   - text: "Three things cannot be long hidden: the sun, the moon and my faithful love for you."
   - text: "Because a man who doesn't spend time with his girlfriend can never be a real man."
 
-me-img: "/img/wh_home.jpg"
+me-img: "/img/wh_home.png"
 
 ##############################
 # Color the browser elements #
@@ -111,7 +111,8 @@ syntax-highlight: True
 events:
     - image: "/img/wh_1.jpg"
       date: "4 APRIL 2016"
-      description: "Want to be your love for real"
+      description: "Somewhere only we know"
+##      description: "Want to be your love for real"
 ##  - image: "/img/timeline/the_jungle_book.jpg"
 ##    date: "17 APRIL 2016"
 ##    description: "The Jungle Book"
@@ -171,7 +172,7 @@ social:
 pages_list:
 #  About: 'about'
   Blog: 'latest-post'
-#  Timeline: 'timeline'
+  Timeline: 'timeline'
 #  Contact: 'contact'
 
 # Exclusion list from the generated _site
