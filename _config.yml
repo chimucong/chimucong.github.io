@@ -109,12 +109,15 @@ syntax-highlight: True
 ############
 
 events:
-  - image: "/img/timeline/the_jungle_book.jpg"
-    date: "17 APRIL 2016"
-    description: "The Jungle Book"
-  - image: "/img/timeline/langoustine.jpg"
-    date: "10 APRIL 2016"
-    description: "Langoustine"
+    - image: "/img/wh_1.jpg"
+      date: "4 APRIL 2016"
+      description: "Want to be your love for real"
+##  - image: "/img/timeline/the_jungle_book.jpg"
+##    date: "17 APRIL 2016"
+##    description: "The Jungle Book"
+##  - image: "/img/timeline/langoustine.jpg"
+##    date: "10 APRIL 2016"
+##    description: "Langoustine"
 
 # First image of the Timeline
 
@@ -168,7 +171,7 @@ social:
 pages_list:
 #  About: 'about'
   Blog: 'latest-post'
-#  Timeline: 'timeline'
+  Timeline: 'timeline'
 #  Contact: 'contact'
 
 # Exclusion list from the generated _site
